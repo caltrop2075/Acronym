@@ -12,3 +12,7 @@ acr-sub.dat    expansion data, tab separated
 acro-sub.awk   awk program
 acro-sub.sh    main program
 acro-sub.txt   input text
+
+WARNING!!!
+have a data directory in home for *.dat files
+$HOME/data
